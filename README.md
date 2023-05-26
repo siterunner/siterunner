@@ -1,6 +1,6 @@
-👋 Hi, I’m Patrick Neil Noceja, webdeveloper
-👀 I’m interested in developing software that helps the community
-🌱 I’m currently learning to build connection outside and inside of tech
+👋 Hi, I’m Patrick Neil Noceja, webdeveloper  
+👀 I’m interested in developing software that helps the community  
+🌱 I’m currently learning to build connection outside and inside of tech  
 📫 Reach me through my website nocejapatrick.com
 
 <!---
